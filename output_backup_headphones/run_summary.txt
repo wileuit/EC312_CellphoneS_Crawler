@@ -1,0 +1,6 @@
+﻿Thời gian UTC: 2026-10-26T01:43:40.7047986Z
+Số sản phẩm thu được: 154
+Có đủ 6 trường chính (Tên + Giá + Hình + Mô tả + Hãng + URL): 154
+Số URL bỏ qua/lỗi: 2
+Trạng thái Published trong WooCommerce: -1 (Nháp / Draft) theo đúng yêu cầu đề bài.
+Ánh xạ cột đối chiếu hoàn chỉnh theo Reference/DataMapping_Thay.xlsx.
